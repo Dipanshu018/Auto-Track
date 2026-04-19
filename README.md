@@ -36,6 +36,6 @@ Built with **MERN Stack** (MongoDB, Express.js, React.js, Node.js).
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Himanshu-tayade/Auto-Track.git
-   cd auto-track
+   git clone https://github.com/Dipanshu018/Auto-Track.git
+   cd Auto-track
 
